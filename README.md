@@ -23,3 +23,9 @@
  K means
  
  EM
+
+ Bayesian Linear Regression
+ 
+ Gaussian Processes
+
+ Reinforcement Learning 
